@@ -1,0 +1,6 @@
+framework module Pods_Anagrams {
+  umbrella header "Pods-Anagrams-umbrella.h"
+
+  export *
+  module * { export * }
+}
